@@ -14,7 +14,7 @@ outer("simar")();
 function outer2() {
     var b = 10; //same with let
     function inner2() {
-        console.log(b, "hello");
+        console.log(b, "hello 2222222");
     }
     return inner2;
 }
